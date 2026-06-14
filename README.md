@@ -20,12 +20,12 @@ A comprehensive QA case study documenting the end-to-end test strategy, test cas
 
 ## 📁 Repository Contents
 
-| File | Description |
-|---|---|
-| `TestStrategy.md` | Full QA strategy, scope, approach and entry/exit criteria |
-| `TestCases.xlsx` | Detailed test cases with steps, expected results and pass/fail status |
-| `DefectLog.xlsx` | Defect register with severity, priority and resolution tracking |
-| `FinalReport.md` | Post-migration validation summary and sign-off report |
+| File | Description                                                                                                                  |
+|---|------------------------------------------------------------------------------------------------------------------------------|
+| `docs/TestStrategy.md` | Full QA strategy, scope, approach and entry/exit criteria                                                                    |
+| `testing/TestCases.xls` | Detailed test cases with steps, expected results and pass/fail status                                                        |
+| `artifacts/DefectLog.xls` | Defect register with severity, priority, ownership, and resolution tracking                                                  |
+| `reports/FinalReport.md` | Post-migration validation summary, testing results, and go-live recommendation                                               |
 
 ---
 
