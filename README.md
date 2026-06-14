@@ -26,7 +26,7 @@ A comprehensive QA case study documenting the end-to-end test strategy, test cas
 | `testing/TestCases.xls` | Detailed test cases with steps, expected results and pass/fail status                                                        |
 | `artifacts/DefectLog.xls` | Defect register with severity, priority, ownership, and resolution tracking                                                  |
 | `reports/FinalReport.md` | Post-migration validation summary, testing results, and go-live recommendation                                               |
-
+| `validation/FieldMapping.xls` | Maps legacy fields to target fields with transformation rules |
 ---
 
 ## 🔄 Migration Scope
