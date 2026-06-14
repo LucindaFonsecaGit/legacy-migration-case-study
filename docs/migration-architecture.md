@@ -4,29 +4,6 @@ This document describes the high-level architecture of a legacy system migration
 
 ## High-Level Migration Flow
 
-```
-Legacy System
-      │
-      ▼
-Extraction
-      │
-      ▼
-Transformation
-      │
-      ▼
-Validation
-      │
-      ▼
-Target System
-      │
-      ▼
-Smoke Testing
-      │
-      ▼
-Production
-```
-## Architecture Diagram
-
 ![Migration Flow](../diagrams/migration-flow.png)
 
 ## Migration Stages
